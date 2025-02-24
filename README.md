@@ -1,7 +1,5 @@
 # TikTok Undo
 
-![Project Logo](https://via.placeholder.com/150) <!-- Replace with your project logo or remove this line -->
-
 ## 🚀 Overview
 - This code is to automate unsave, unrepost, unlike on your tiktok
 
