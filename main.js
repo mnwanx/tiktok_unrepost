@@ -1,6 +1,6 @@
 class TikTok {
+    // Developer won't be responsible for anything hapens to your account (suspended, banned, or elese) due to bot detection.
     constructor()   {
-        // alert("Dekat mana kekuatan hang tuah? dekat T HAHAHAHAHAHA");
         this.developer = "Code";
         this.description = "This code is to automate unsave, unrepost, unlike on your tiktok";
         this.version = "v2025.0.0-Dev";

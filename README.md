@@ -2,6 +2,7 @@
 
 ## 🚀 Overview
 - This code is to automate unsave, unrepost, unlike on your tiktok
+- Developer won't be responsible for anything hapens to your account (suspended, banned, or elese) due to bot detection.
 
 ## Developer
 - Code
