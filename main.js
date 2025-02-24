@@ -1,6 +1,6 @@
 class TikTok {
     constructor()   {
-        alert("Dekat mana kekuatan hang tuah? dekat T HAHAHAHAHAHA");
+        // alert("Dekat mana kekuatan hang tuah? dekat T HAHAHAHAHAHA");
         this.developer = "Code";
         this.description = "This code is to automate unsave, unrepost, unlike on your tiktok";
         this.version = "v2025.0.0-Dev";
@@ -36,6 +36,7 @@ class TikTok {
 tiktok = new  TikTok()
 tiktok.help();
 function main(option, task) {
+    tiktok.help();
    for (i = 0; i < task; i++)  {
     try {
         switch (option) {
@@ -59,4 +60,12 @@ function main(option, task) {
     }
    }
    alert("Done");
+}
+
+function help() {
+    tiktok.help();
+}
+
+function credit()   {
+    console.log(tiktok.contact_developer);
 }
