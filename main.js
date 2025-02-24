@@ -28,7 +28,7 @@ class TikTok {
     }
     help()  {
         console.clear();
-        console.log('%cDeveloped by ' + this.developer, 'color:white;font-size:20px;');
+        console.log('%cDeveloped by ' + this.developer, 'font-size:20px;');
         console.log(this.options_available);
     }
 }
